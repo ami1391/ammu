@@ -1,0 +1,87 @@
+sudo apt-get x11-xkb-utils
+    2  sudo apt-get x11-xkb-utils
+    3  sudo loadskeys us
+    4  sudo loadskeys
+    5  sudo loadkeys us
+    6  sudo loadkeys uk
+    7  cd /etc/yum.repos.d/
+    8  cd /etc
+    9  ls
+   10  sudo instll yum
+   11  sudo install yum
+   12  cd ..
+   13  cd /etc/yum.repos.d/
+   14  apt-get install git
+   15  sudo dpkg --configure -a
+   16  git --version
+   17  yum update -y
+   18  sudo yum update -y
+   19  apt update 
+   20  apt list
+   21  git status
+   22  git add index.html
+   23  apt install nginx
+   24  git add index.html
+   25  ls
+   26  ls
+   27  git add index.html
+   28  git --version
+   29  exit
+   30  git status
+   31  git log
+   32  git remote set-url https://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@github.com/ami1391/ammu
+   33  git push origin main
+   34  git remote set-url https://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@github.com/ami1391/ammu.git
+   35  git remote set-url https://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@github.com --push /ami1391/ammu.git
+   36  git remote set-url https://ami1391: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@github.com/ami1391/ammu.git
+   37  get remote -v
+   38  git remote set-url origin https://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@github.com/ami1391/ammu.git
+   39  
+38 no is okk command that is used 
+       get push origin main
+   40  git push origin main
+   41  get remote -v
+   42  git push origin master
+   43  git push origin master --force
+   44  git status
+   45  git fetch
+   46  git pull
+   47  git pull remote master
+   48  git log
+   49  git pull --all
+   50  get pull origin master
+   51  git pull origin master
+   52  git ls-tree --name-only origin/master
+   53  git pull origin master myfile
+   54  git init
+   55  get remote add origin https://github.com/ami1391/ammu.git
+   56  git remote add origin https://github.com/ami1391/ammu.git
+   57  git pull -u origin master
+   58  git pull -u origin master
+   59  git pull -u origin master --all
+   60  git log
+   61  git show fea6
+   62  git status
+   63  git add .
+   64  ls
+   65  git show fea6
+   66  git show fea6
+   67  git status
+   68  git status
+   69  git ls
+   70  ls
+   71  echo "he this is second update" > myfile
+   72  cat myfile
+   73  git add myfile
+   74  git commit -m "second commit by me"
+   75  git status
+   76  git status
+   77  git log
+   78  git show
+   79  git remote set-url https://github.com/ami1391/ammu.git/ami1391/ammu.git
+   80  git push origin master --force
+   81  git show
+   82  git ls -tree
+   83  git -tree --name-only origin/master
+   84  git ls-tree --name-only origin/master
+   85  history
